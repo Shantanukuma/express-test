@@ -1,0 +1,13 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/get-tea\",\"status\":\"404\",\"responseTime\":\"4.783\"}","timestamp":"2025-03-17T11:36:35.528Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/get-tea\",\"status\":\"200\",\"responseTime\":\"2.258\"}","timestamp":"2025-03-17T11:36:46.668Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/get-tea/2\",\"status\":\"404\",\"responseTime\":\"1.396\"}","timestamp":"2025-03-17T11:36:53.179Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/get-tea\",\"status\":\"200\",\"responseTime\":\"2.582\"}","timestamp":"2025-03-17T11:37:08.911Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/get-tea\",\"status\":\"404\",\"responseTime\":\"0.862\"}","timestamp":"2025-03-17T11:39:33.427Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/get-tea\",\"status\":\"404\",\"responseTime\":\"0.493\"}","timestamp":"2025-03-17T11:40:21.600Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/get-tea\",\"status\":\"404\",\"responseTime\":\"0.579\"}","timestamp":"2025-03-17T11:40:24.018Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/teas\",\"status\":\"404\",\"responseTime\":\"0.329\"}","timestamp":"2025-03-17T11:41:09.411Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"PUT\",\"url\":\"/teas\",\"status\":\"404\",\"responseTime\":\"0.292\"}","timestamp":"2025-03-17T11:42:47.359Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.720\"}","timestamp":"2025-03-17T11:43:27.193Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/teas\",\"status\":\"201\",\"responseTime\":\"0.234\"}","timestamp":"2025-03-17T11:43:48.872Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/teas\",\"status\":\"404\",\"responseTime\":\"0.382\"}","timestamp":"2025-03-17T11:44:04.831Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/get-tea\",\"status\":\"200\",\"responseTime\":\"0.644\"}","timestamp":"2025-03-17T11:44:22.425Z"}
